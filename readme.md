@@ -2,6 +2,7 @@
 
 This repo shows how you can render a [Highcharts chart](https://www.highcharts.com/) with Elm. It uses [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) to allow Elm to create and interact with a chart.
 
+This dist folder is served [here](https://niallarkenergy.github.io/Elm-Highchart/dist/). The button sends a msg to elm and the chart redraws when it detects its attributes have changed.
 ## Run locally
 
 To run this locally you need node installed on your machine. Node can be downloaded [here](https://nodejs.org/en/).
